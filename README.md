@@ -3,3 +3,7 @@ Projects and exercises developed during my Data Analytics Bootcamp.
 ## Bootcamp Projects
 
 This repository contains exercises and projects developed during my Data Analytics Bootcamp.
+
+## Repository Update
+
+This line was added directly from GitHub to demonstrate the Pull workflow.
